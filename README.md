@@ -1,4 +1,6 @@
-# metaspoilt
+# Termux 
+
+metaspoilt
 This tool made for Edhucational perpose 
 
 # INSTALLATION 
@@ -13,7 +15,24 @@ This tool made for Edhucational perpose
 
 ✓ clear
 
-✓ wget https://raw
+✓ pkg install git -y 
+
+✓ git clone https://github.com/mrkarthick-cool/metaspoilt.git
+
+✓ cd metaspoilt 
+
+✓ chmod +x metasploit.sh
+
+✓ ./metasploit.sh
+
+
+# contact me directly 
+
+WhatsApp number : +91 9176810909
+
+# instagram id    : rootkarthick 
+
+
 
 
 
